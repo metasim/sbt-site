@@ -1,7 +1,7 @@
 publishMavenStyle := false
 
-bintrayOrganization := Some("sbt")
+bintrayOrganization := Some("ypg-data")
 
-bintrayRepository := "sbt-plugin-releases"
+bintrayRepository := "sbt-plugins"
 
 bintrayReleaseOnPublish in ThisBuild := false
